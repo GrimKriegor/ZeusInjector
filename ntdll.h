@@ -15,7 +15,7 @@
 /* 16.09.05  2.00  Lad  Far more functions                                   */
 /*****************************************************************************/
 
-#include <Windows.h>
+#include <windows.h>
 
 #ifndef __NTDLL_H__
 #define __NTDLL_H__

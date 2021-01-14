@@ -28,7 +28,7 @@
 */
 
 #include "Zeus.h"
-#include <TlHelp32.h> //Required for process Enumeration
+#include <tlhelp32.h> //Required for process Enumeration
 
 
 /*
